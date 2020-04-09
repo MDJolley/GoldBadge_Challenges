@@ -1,0 +1,6 @@
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Claims\bin\Debug\Claims.exe.config
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Claims\bin\Debug\Claims.exe
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Claims\bin\Debug\Claims.pdb
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Claims\obj\Debug\Claims.exe
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Claims\obj\Debug\Claims.pdb
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Claims\obj\Debug\Claims.csprojAssemblyReference.cache

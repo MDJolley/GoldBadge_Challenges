@@ -1,0 +1,16 @@
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\obj\Debug\Badges_Tests.csprojAssemblyReference.cache
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Badges_Tests.dll
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Badges_Tests.pdb
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Badges.exe
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Badges.pdb
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Badges.exe.config
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\obj\Debug\Badges_Tests.csproj.CopyComplete
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\obj\Debug\Badges_Tests.dll
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges_Tests\obj\Debug\Badges_Tests.pdb

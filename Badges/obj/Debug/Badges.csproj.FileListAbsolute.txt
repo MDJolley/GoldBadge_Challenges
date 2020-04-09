@@ -1,0 +1,6 @@
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges\obj\Debug\Badges.csprojAssemblyReference.cache
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges\bin\Debug\Badges.exe.config
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges\bin\Debug\Badges.exe
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges\bin\Debug\Badges.pdb
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges\obj\Debug\Badges.exe
+C:\Users\Mikoo\source\repos\Gold_Badge_Challenges\Badges\obj\Debug\Badges.pdb
